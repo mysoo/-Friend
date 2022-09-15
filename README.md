@@ -1,4 +1,4 @@
-# SogangFriend
+# -Friend
 교내의 고향 친구 및 이웃 친구를 찾는 웹사이트 개발 프로젝트!
 
 
@@ -12,21 +12,8 @@
 - 같은 동네 사용자 간 취미 공유
 - 단체 채팅방, DM 기능
 
-## Preview
-
-https://user-images.githubusercontent.com/80390638/183651950-8341067b-5651-47cc-8609-082b688019b8.mp4
-
-
 ## Design Prototype
-### Homepage
-<img src="https://user-images.githubusercontent.com/63971146/138401542-32426e82-e3cd-4a23-8a8e-2ca92723566f.png" width=70%/>
-
-### Signup page
-<img src="https://user-images.githubusercontent.com/63971146/138401722-38b0ea7c-f67c-470f-ae82-eb1e95657827.png" width=70%/>
-<img src="https://user-images.githubusercontent.com/63971146/138401808-0a5d7a2a-1d12-40dd-95a6-613624a902a0.png" width=70%/>
-
-### Chat page
-<img src="https://user-images.githubusercontent.com/63971146/138402138-0cf1185b-470f-4fc2-b98d-5d416757396a.png" width=70%/>
+delete
 
 ## Used tools & Reference documents
 - [Django mails](https://docs.djangoproject.com/en/3.2/topics/email/) for Email Authentication
