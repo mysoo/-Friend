@@ -30,36 +30,8 @@ https://user-images.githubusercontent.com/80390638/183651950-8341067b-5651-47cc-
 
 ## Used tools & Reference documents
 - [Django mails](https://docs.djangoproject.com/en/3.2/topics/email/) for Email Authentication
-
-
-
-
-
-
-
-
-# -Friend
-교내의 고향 친구 및 이웃 친구를 찾는 웹사이트 개발 프로젝트!
-
-
-
-
-## Components
-- 이메일 인증을 통한 회원가입
-- 위치 인증을 이용한 같은 동네 사용자 찾기
-- 같은 동네 사용자 간 취미 공유
-- 단체 채팅방, DM 기능
-
-## Design Prototype
-delete
-
-## Used tools & Reference documents
-- [Django mails](https://docs.djangoproject.com/en/3.2/topics/email/) for Email Authentication
 - [Django Channels](https://channels.readthedocs.io/en/stable/) for Chat Service
 - [Kakao map API](https://apis.map.kakao.com/web/) for Map, Reverse Geocoding
-
-
-
 
 ----------------------------------------------------------------------
 
